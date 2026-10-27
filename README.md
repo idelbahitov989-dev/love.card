@@ -1,5 +1,3 @@
-# love.card
-a little love letter for my favorite person ♡
 <!DOCTYPE html>
 <html lang="ru">
 <head>
